@@ -2,13 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E86C1&size=35&Left=true&vLeft=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Poterucha!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ### 👨‍💻 Sobre mim:
-Olá! Me chamo ***Lucas Poterucha***, tenho 23 anos e estou ***iniciando minha jornada no mundo da tecnologia***. Com um breve conhecimento em ***JS***, ***PYTHON***,***SQL*** e ***AWS***, estou em busca aprender mais sobre os dados. Estou empolgado para expandir minhas habilidades e explorar o universo da programação. 🚀
-***Vamos criar algo incrível juntos!***
+Olá! Me chamo **Lucas Poterucha**, tenho 23 anos e estou **iniciando minha jornada no mundo da tecnologia**. Com um breve conhecimento em **JS**, **PYTHON**,**SQL** e **AWS**, estou em busca aprender mais sobre os dados. Estou empolgado para expandir minhas habilidades e explorar o universo da programação.🚀
+**Vamos criar algo incrível juntos!**
 
 ### 📱 Vamos nós conectar! 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspoterucha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_poterucha/)
-
 
 ### 📈 Estatisticas 
 <div align="left">  
