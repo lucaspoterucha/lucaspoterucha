@@ -12,7 +12,6 @@ Olá! Sou **Lucas Poterucha**, tenho 23 anos e estou **iniciando minha trajetór
 ### 📈 Estatisticas 
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaspoterucha&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=f2E86C1&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Poterucha github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspoterucha&layout=compact&hide_border=true&title_color=2E86C1&text_color=ECFFED&bg_color=0d1117" />
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas:
