@@ -1,8 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E86C1&size=35&Left=true&vLeft=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Poterucha!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
+Olá! Sou Lucas Poterucha, tenho 23 anos e estou começando minha trajetória na área de tecnologia. Já possuo noções iniciais de JavaScript, Python, SQL e AWS, e estou determinado a aprofundar meus conhecimentos em dados. Estou animado para desenvolver minhas habilidades e explorar o vasto mundo da programação. 🚀 Vamos construir algo incrível juntos!
+
 ### 👨‍💻 Sobre mim:
-Olá! Me chamo **Lucas Poterucha**, tenho 23 anos e estou **iniciando minha jornada no mundo da tecnologia**. Com um breve conhecimento em **JS**, **PYTHON**,**SQL** e **AWS**, estou em busca aprender mais sobre os dados. Estou empolgado para expandir minhas habilidades e explorar o universo da programação.🚀
+Olá! Sou **Lucas Poterucha**, tenho 23 anos e estou **iniciando minha trajetória na área de tecnologia**. Já possuo um breve conhecimento em **JAVASCRIPT**, **PYTHON**,**SQL** e **AWS**, estou determinado a aprofundar meus conhecimentos em dados. Estou empolgado para desenvolver minhas habilidades e explorar o vasto mundo da programação.🚀
 **Vamos criar algo incrível juntos!**
 
 ### 📱 Vamos nós conectar! 
