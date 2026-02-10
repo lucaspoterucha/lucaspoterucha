@@ -8,7 +8,7 @@ Olá! Sou **Lucas Poterucha**, tenho 24 anos e estou **iniciando minha trajetór
 ### 📱 Vamos nós conectar! 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspoterucha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_poterucha/)
-[![Behance](https://camo.githubusercontent.com/efa72942e8079d713b017f406ac3aed1d668d30d294e3b192722d44899e976a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426568616e63652d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465)](https://www.behance.net/lucaspoterucha)
+[![Behance](https://www.iconfinder.com/icons/104426/behance_portfolio_icon)](https://www.behance.net/lucaspoterucha)
 
 ### 📈 Estatisticas 
 <div align="left">  
