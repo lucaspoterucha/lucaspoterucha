@@ -8,13 +8,8 @@ Olá! Sou **Lucas Poterucha**, tenho 24 anos e estou **iniciando minha trajetór
 ### 📱 Vamos nós conectar! 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspoterucha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_poterucha/)
-[![Behance](https://www.iconfinder.com/icons/104426/behance_portfolio_icon)](https://www.behance.net/lucaspoterucha)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lucaspoterucha)
 
-### 📈 Estatisticas 
-<div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaspoterucha&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=f2E86C1&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Poterucha github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspoterucha&layout=compact&hide_border=true&title_color=2E86C1&text_color=ECFFED&bg_color=0d1117" />
-</div>
 
 ### 🛠️ Tecnologias e Ferramentas:
 <div align="left">
